@@ -1,8 +1,7 @@
 #include <stdio.h>
 
-int main(){
-
-
+int main(void)
+{
 puts("\"programming is fun");
-return 0;
+return(0);
 }	
