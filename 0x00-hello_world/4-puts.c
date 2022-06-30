@@ -4,5 +4,5 @@ int main(){
 
 
 puts("\"programming is fun");
-return 0
+return 0;
 }	
