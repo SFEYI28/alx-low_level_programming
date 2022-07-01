@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- *  * main-program that prints all possible different combinations of two digits
+ *  * main-program prints all possible different combinations of two digits
  *   * Numbers must be separated by ,followed by a space
  *    * The two digits must be different
- *     * 01 and 10 are considered the same combination of the two digits 0 and 1
+ *     * 01 and 10 are considered same combination of the two digits 0 and 1
  *      * Return: 0
  *       **/
 
