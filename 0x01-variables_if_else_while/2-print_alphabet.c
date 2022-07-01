@@ -1,20 +1,18 @@
 #include <stdio.h>
-#include <ctype.h>
-
 /**
- *  * main - program that prints the alphabet in lowercase, followed by a new line
- *   * You can only use the putchar
- *    * Return: 0
- *     **/
-
+ *  * main - prints the alphabet in lowercase.
+ *  (*
+ *   * Return: 0 on success
+ *    **/
 int main(void)
 {
-	int l = 'a';
-	while (l <= 'z')
-	{
-		putchar(l);
-		l += 1;
-	}
-	putchar('\n');
-	return (0);
+char c = 'a';
+
+while (c <= 'z')
+{
+putchar(c);
+c++;
+}
+putchar('\n');
+return (0);
 }
